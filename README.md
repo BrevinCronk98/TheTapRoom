@@ -5,17 +5,20 @@
 #### By Brevin Cronk
 
 ## Description
-#### The purpose of this application is to prove my understand of functional programming with ReactJS.This is a live web application for a Tap Room where the user can add,delete and update the current stock of the Tap Room.
+#### The purpose of this application is to prove my understand of functional programming with ReactJS.This is a live web application for a Tap Room where the user can add, delete and update the current stock of the Tap Room.
 
+
+## !! Important !!
+#### To get the project up and running make sure you clone the repository; after cloning the repository, change directories to the project directory and run the script 'npm install'. This will install all of the project dependencies. Without running the 'npm install' script, the project will not build, and the webpage will not display. This is the first and most important step in getting the program to run. There are further instructions on what to do further in the README, but since this one is just so important, I put it at the top.
 
 ## Known Bugs
-* No Known Bugs Yet
+* Wallet feature is not fully functional. I have not been able to discover any more bugs.
 
 
 ## Component Flow Chart
 <details>
 <summary>Click to See Component Flow Chart</summary>
-<img src="./img/flowchart.png" width="45%">
+<img src="tap-room/img/flowchart.png" width="45%">
 </details>
 
 ## Specs
